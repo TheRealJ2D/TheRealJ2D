@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheRealJ2D
+- 👀 I’m interested in ... Java Development
+- 🌱 I’m currently learning ... Bukkit Coding
+- 📫 How to reach me ... SC: nm.fh
+---
