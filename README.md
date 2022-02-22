@@ -2,4 +2,5 @@
 - 👀 I’m interested in ... Java Development
 - 🌱 I’m currently learning ... Bukkit Coding
 - 📫 How to reach me ... SC: nm.fh
+- ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
 - My Spigot Page: [Click here](https://www.spigotmc.org/members/therealfahad.1202302/)
