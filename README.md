@@ -2,7 +2,7 @@
 #### I am From SaudiArabia
 ![I am From SaudiArabia](https://i.postimg.cc/XNRTDCd0/Untitled.png)
 
-I made Minecraft plugins and some other projects in the future with other languages in the future.
+I made Minecraft plugins and some other projects with other languages in the future.
 
 Skills: C# / Python / Java / HTML / CSS
 
