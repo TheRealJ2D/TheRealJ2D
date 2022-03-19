@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm J2D</h1>
 <h3 align="center">Java Developer under Development!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealj2d&label=Profile%20views&color=21b40e&style=flat" alt="therealj2d" /> </p>
+
 
 - 🌱 I’m currently learning **CSS , C# , HTML , PYTHON**
 
 - ⚡ Fun fact **I love Coffe :).**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealj2d&label=Profile%20views&color=21b40e&style=flat" alt="therealj2d" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
