@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @TheRealJ2D
+# 👋 Hi, I'm @J2D
 
 ## 🎮 Java & Minecraft Plugin Developer
 
